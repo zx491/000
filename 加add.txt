@@ -1,6 +1,0 @@
-﻿生成开始于 16:10...
-1>------ 已启动生成: 项目: ConsoleApplication1, 配置: Debug x64 ------
-1>FileName.cpp
-1>ConsoleApplication1.vcxproj -> C:\Users\huawei\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
-========== 生成: 1 成功，0 失败，0 最新，0 已跳过 ==========
-========== 生成 于 16:10 完成，耗时 03.275 秒 ==========
